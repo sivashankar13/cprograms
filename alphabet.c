@@ -10,7 +10,7 @@ int main(void) {
 	}
 	else
 	{
-		printf("invaled");
+		printf("No");
 	}
 	// your code goes here
 	return 0;

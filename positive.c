@@ -2,18 +2,19 @@
 
 int main(void) 
 {
+	int n;
 	scanf("%d",&n);
 	if(n>0)
 	{
-		printf("postive");
+		printf("Postive");
 	}
 	else if(n<0)
 	{
-		printf("negative");
+		printf("Negative");
 	}
 	else
 	{
-		printf("zero");
+		printf("Zero");
 	}
 	return 0;
 }
